@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
