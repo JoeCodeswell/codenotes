@@ -6,6 +6,8 @@
 - github pages links
 - github pages navbar
 - github pages sidebar
+- who wrote jekyll-theme-hacker
+
 
 ### 6. file2 renamed to file2.md & linked
 1. [the long link ' https://joecodeswell.github.io/codenotes/file2.html '](https://joecodeswell.github.io/codenotes/file2.html)
