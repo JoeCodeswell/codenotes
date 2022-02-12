@@ -1,5 +1,21 @@
 ## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
+### creation notes
+- this page says "codenotes / index.md in gh-pages"
+- i think mandj is in main 
+- i think i chose main at the time of creation for this in [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+I think the order of the stuff i did was:
+1. [GitHib.com >> JoeCodeswell >> repositories](https://github.com/JoeCodeswell?tab=repositories)  
+    - [New Repository]
+    - fill it all in to make the repo
+2. follow [Creating your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
+  1. IMMEDIATELY follow [Decide which publishing source you want to use. For more information, see "About GitHub Pages."]
+    - ["About GitHub Pages." >> Publishing sources for GitHub Pages sites >> ](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)
+      - [see "Configuring a publishing source for your GitHub Pages site."](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+        - [Choosing a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
+
+
+## Original stuff
 You can use the [editor on GitHub](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
