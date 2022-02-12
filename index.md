@@ -4,7 +4,8 @@
 1. Click at top to nav 
   - **AWAY FROM:** [JoeCodeswell / codenotes / index.me](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md)
   - **TO:**        [JoeCodeswell / codenotes]()
-
+2. select gh-pages branch
+3. click green [add page] button
 
 ### creation notes
 - [This page link == ' https://joecodeswell.github.io/codenotes/ '](https://joecodeswell.github.io/codenotes/)
