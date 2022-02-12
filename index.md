@@ -3,6 +3,10 @@
 ## Below is REVERSE CHRON
 
 ### 5. rename file to be file2.md & try to link again
+1. find the github doc to rename a file - google
+"How do I rename a file in GitHub?
+In your repository, browse to the file you want to rename. In the upper right corner of the file view, click to open the file editor. In the filename field, change the name of the file to the new filename you want. You can also update the contents of your file at the same time." 
+  - [Renaming a file](https://docs.github.com/en/repositories/working-with-files/managing-files/renaming-a-file)
 
 ### 4. Link from here to new file 
 - [Here's my initial fuess to link to file2 == https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2 ](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2)
