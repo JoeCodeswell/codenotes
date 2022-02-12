@@ -1,13 +1,20 @@
 ## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
-### make a new file
+## Below is REVERSE CHRON
+
+### 4. Link from here to new file 
+- [Here's my initial fuess to link to file2 == https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2 ](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2)
+-   I wonder if the code iwll be processed by jeckyll?
+### 3. Make a new file
 1. Click at top to nav 
   - **AWAY FROM:** [JoeCodeswell / codenotes / index.me](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md)
-  - **TO:**        [JoeCodeswell / codenotes]()
+  - **TO:**        [JoeCodeswell / codenotes](https://github.com/JoeCodeswell/codenotes/tree/gh-pages)
 2. select gh-pages branch
-3. click green [add page] button
+3. click green [add file] button
+  - I named the file 'file2'
+    - should have been 'file2.md'?? 
 
-### creation notes
+### 2. Creation notes
 - [This page link == ' https://joecodeswell.github.io/codenotes/ '](https://joecodeswell.github.io/codenotes/)
 - this page says "codenotes / index.md in gh-pages"
 - i think mandj is in main 
@@ -23,7 +30,7 @@ I think the order of the stuff i did was:
         - [Choosing a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
 
 
-## Original stuff
+## 1. Original Stuff
 You can use the [editor on GitHub](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
