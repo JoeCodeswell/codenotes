@@ -1,6 +1,9 @@
 ## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
+
+
 ### creation notes
+- [This page link == ' https://joecodeswell.github.io/codenotes/ '](https://joecodeswell.github.io/codenotes/)
 - this page says "codenotes / index.md in gh-pages"
 - i think mandj is in main 
 - i think i chose main at the time of creation for this in [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
