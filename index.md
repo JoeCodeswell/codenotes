@@ -1,5 +1,10 @@
 ## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
+## Gratitude: Thanks, Holy Trinity!
+- In the sight of the angels I sing Your praises, Lord
+### TODO
+- google: github pages hacker theme navbar
+
 ## Below is REVERSE CHRON
 
 ### 7. navigation googles: 
@@ -7,6 +12,7 @@
 - github pages navbar
 - github pages sidebar
 - who wrote jekyll-theme-hacker
+  - [github.pages >> themes >> hacker](https://github.com/pages-themes/hacker)
 
 
 ### 6. file2 renamed to file2.md & linked
