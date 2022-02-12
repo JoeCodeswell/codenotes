@@ -2,6 +2,14 @@
 
 ## Below is REVERSE CHRON
 
+### 7. navigation googles: 
+- github pages links
+- github pages navbar
+- github pages sidebar
+
+### 6. file2 renamed to file2.md & linked
+1. [the long link ' https://joecodeswell.github.io/codenotes/file2.html '](https://joecodeswell.github.io/codenotes/file2.html)
+
 ### 5. rename file to be file2.md & try to link again
 1. find the github doc to rename a file - google
 "How do I rename a file in GitHub?
