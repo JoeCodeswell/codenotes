@@ -2,9 +2,15 @@
 
 ## Below is REVERSE CHRON
 
+### 5. rename file to be file2.md & try to link again
+
 ### 4. Link from here to new file 
 - [Here's my initial fuess to link to file2 == https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2 ](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/file2)
--   I wonder if the code iwll be processed by jeckyll?
+  - I wonder if the code iwll be processed by jeckyll?
+  1. my guess was wrong it should have been [https://joecodeswell.github.io/file2/](https://joecodeswell.github.io/file2/)
+  2. **RESULT == NG**  naving to above yields 404  File not found
+  3. N.B. this link os GOOD ['https://joecodeswell.github.io/codenotes/index.html'](https://joecodeswell.github.io/codenotes/index.html)
+
 ### 3. Make a new file
 1. Click at top to nav 
   - **AWAY FROM:** [JoeCodeswell / codenotes / index.me](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md)
