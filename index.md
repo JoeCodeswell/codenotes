@@ -1,5 +1,9 @@
 ## Joe says, "Welcome to JoeCodeswell's  Code Notes on GitHub Pages
 
+### make a new file
+1. Click at top to nav 
+  - **AWAY FROM:** [JoeCodeswell / codenotes / index.me](https://github.com/JoeCodeswell/codenotes/edit/gh-pages/index.md)
+  - **TO:**        [JoeCodeswell / codenotes]()
 
 
 ### creation notes
